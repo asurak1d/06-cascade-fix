@@ -1,1 +1,1 @@
-# 06-cascade-fix
+In this exercise, I practiced CSS Cascade. This is an exercise from The Odin Project for CSS.
